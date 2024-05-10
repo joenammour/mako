@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Debugging information (please complete the following information):**
- - WordPress version, Gutenberg version, and Frost theme version you are using.
+ - WordPress version, Gutenberg version, and Mako theme version you are using.
  - Device: [e.g. iPhone6, MacBook Pro]
  - OS: [e.g. iOS8.1, macOS 14.4]
  - Browser [e.g. Safari 17.4, Chrome 123.0.6312]
